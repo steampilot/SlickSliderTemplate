@@ -69,4 +69,4 @@ My Projects follow mostly PSR2 but extend on the following subjects.
 
 ## License
 
-A short snippet describing the license (MIT, Apache, etc.)
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
