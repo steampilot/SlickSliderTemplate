@@ -1,8 +1,8 @@
-# README.md
-GitHub README.md Template
+# Slick Slider Template
+Basic responsive web template
 ## Synopsis
 
-Simple and easy to use One-Page Template. Complete with a Slick Slider example
+Simple and easy to use one-page template. Complete with a Slick Slider example
 ### Live example ###
 [Slick Slider Template hosted on steampilot.ch](http://www.steampilot.ch/demo/Slick_Slider_Template/)
 
