@@ -3,6 +3,8 @@ GitHub README.md Template
 ## Synopsis
 
 Simple and easy to use One-Page Template. Complete with a Slick Slider example
+### Live example ###
+[Slick Slider Template hosted on steampilot.ch](http://www.steampilot.ch/demo/Slick_Slider_Template/)
 
 ## Code Example
 ### Slick Slider
@@ -49,7 +51,7 @@ Extract the content in your public_html folder
 ## API Reference
 
 * [slick.js](http://kenwheeler.github.io/slick/)
-* [Twitter Bootstrap](http://http://getbootstrap.com/)
+* [Twitter Bootstrap](http://getbootstrap.com/)
 
 ## Tests
 
