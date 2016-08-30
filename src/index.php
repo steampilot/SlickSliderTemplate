@@ -10,6 +10,6 @@
  * Time: 18:03
  */
 ?>
-<div class="container" >
-	<?php require_once 'slider.php'; ?>
+<div class="container">
+    <?php require_once 'slider.php'; ?>
 </div>

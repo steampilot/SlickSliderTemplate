@@ -13,14 +13,14 @@
 <!DOCTYPE html >
 <html lang="en">
 <head>
-	<meta charset="utf-8">
-	<title> Slick Slider Template </title>
-	<!-- Latest compiled and minified CSS -->
-	<link type="text/css" rel="stylesheet" href="assets/css/bootstrap.min.css">
-	<link type="text/css" rel="stylesheet" href="assets/css/bootstrap-theme.min.css">
-	<link type="text/css" rel="stylesheet" href="assets/css/slick.css">
-	<link type="text/css" rel="stylesheet" href="assets/css/slick-theme.css">
-	<link type="text/css" rel="stylesheet" href="assets/css/theme.css">
+    <meta charset="utf-8">
+    <title> Slick Slider Template </title>
+    <!-- Latest compiled and minified CSS -->
+    <link type="text/css" rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <link type="text/css" rel="stylesheet" href="assets/css/bootstrap-theme.min.css">
+    <link type="text/css" rel="stylesheet" href="assets/css/slick.css">
+    <link type="text/css" rel="stylesheet" href="assets/css/slick-theme.css">
+    <link type="text/css" rel="stylesheet" href="assets/css/theme.css">
 
 </head>
 <body>
