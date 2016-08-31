@@ -20,7 +20,7 @@
     <link type="text/css" rel="stylesheet" href="assets/css/bootstrap-theme.min.css">
     <link type="text/css" rel="stylesheet" href="assets/css/slick.css">
     <link type="text/css" rel="stylesheet" href="assets/css/slick-theme.css">
-    <link type="text/css" rel="stylesheet" href="assets/css/theme.css">
+    <link type="text/css" rel="stylesheet" href="assets/css/steampilot.css">
 
 </head>
 <body>
@@ -30,5 +30,5 @@
 <script type="text/javascript" src="assets/js/jquery.js"></script>
 <script type="text/javascript" src="assets/js/bootstrap.min.js"></script>
 <script type="text/javascript" src="assets/js/slick.js"></script>
-<script type="text/javascript" src="assets/js/theme.js"></script>
+<script type="text/javascript" src="assets/js/steampilot.js"></script>
 </body>
