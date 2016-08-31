@@ -52,6 +52,7 @@ Extract the content in your public_html folder
 
 * [slick.js](http://kenwheeler.github.io/slick/)
 * [Twitter Bootstrap](http://getbootstrap.com/)
+* [Lorem Pixel](http://lorempixel.com/)
 
 ## Tests
 
